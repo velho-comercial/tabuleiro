@@ -1,5 +1,5 @@
 Instruções
 
-cd tabuleiro
-npm install
-npm run dev
+1. cd tabuleiro
+2. npm install
+3. npm run dev
